@@ -8,6 +8,7 @@ public class GhsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GhsApplication.class, args);
+		System.out.println("tested");
 	}
 
 }
